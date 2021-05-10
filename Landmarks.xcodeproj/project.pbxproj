@@ -14,6 +14,7 @@
 		503776E12648F59D00A53D7F /* LandmarksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503776E02648F59D00A53D7F /* LandmarksTests.swift */; };
 		503776EC2648F59D00A53D7F /* LandmarksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503776EB2648F59D00A53D7F /* LandmarksUITests.swift */; };
 		503776FA26491F0700A53D7F /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503776F926491F0700A53D7F /* CircleImage.swift */; };
+		503776FC264925C300A53D7F /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503776FB264925C300A53D7F /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		503776EB2648F59D00A53D7F /* LandmarksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksUITests.swift; sourceTree = "<group>"; };
 		503776ED2648F59D00A53D7F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		503776F926491F0700A53D7F /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		503776FB264925C300A53D7F /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				503776D02648F59C00A53D7F /* ContentView.swift */,
 				503776D22648F59D00A53D7F /* Assets.xcassets */,
 				503776F926491F0700A53D7F /* CircleImage.swift */,
+				503776FB264925C300A53D7F /* MapView.swift */,
 				503776D72648F59D00A53D7F /* Info.plist */,
 				503776D42648F59D00A53D7F /* Preview Content */,
 			);
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				503776D12648F59C00A53D7F /* ContentView.swift in Sources */,
+				503776FC264925C300A53D7F /* MapView.swift in Sources */,
 				503776CF2648F59C00A53D7F /* LandmarksApp.swift in Sources */,
 				503776FA26491F0700A53D7F /* CircleImage.swift in Sources */,
 			);
